@@ -4,7 +4,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>Käännöksen demomi</translation>
+        <translation>Käännös-demoselitys</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
@@ -19,17 +19,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>Hyvää ateriatyhjää</translation>
+        <translation>Hyvää aamua</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Hyvää päätyyliä</translation>
+        <translation>Hyvää kelloa</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation>Hyvää iltaa</translation>
+        <translation>Hyvää iloa</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Hei hei</translation>
+        <translation>Hyvää huomenta</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Tervetuloa sovelluksemme</translation>
+        <translation>Tervetuloa sovelluksemme!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,27 +74,27 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Hyvää ateriatyhjää! Hyvää päivää</translation>
+        <translation>Hyvää huomenta! Hyvää päivää!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Hyvää päästä! Toivon, että pääset edistyneemmäksi!</translation>
+        <translation>Hyvää keski-Vaaka-aikaa! Toivottavasti pääsit etsimässä asioita.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Hyvää iltaa! Aika rauhalliseksi!</translation>
+        <translation>Hyvää iltaa! Aika rauhoittua!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Kiitos käytöstä meidän sovelluksemme!</translation>
+        <translation>Kiitos sovelluksiemme käytöstä!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Odota, kunhan käsittelemme pyynnöstäsi...</translation>
+        <translation>Odota hetkeksi, kunhan käsittelemme pyynnöstäsi...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Virhe ilmennyt! Yritä uudelleen myöhemmin.</translation>
+        <translation>Virhe tapahtui! Yritä uudelleen myöhemmin.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Hei hei! Palataan seuraavaksi!</translation>
+        <translation>Hei hei! Nähdään seuraavaksi!</translation>
     </message>
 </context>
 </TS>
