@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="am_ET">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="am_ET">
 <context>
     <name>MainWindow</name>
     <message>
@@ -61,7 +59,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation>ሰላም ሰአማይ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
@@ -80,7 +78,7 @@
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
-        <source>Good Afternoon! Hope you're having a productive day!</source>
+        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>እኩይ ኣናኝ! እንዴት ኣብ የመወሰን እንደሚገኙ ፀብናቸው? </translation>
     </message>
     <message>
