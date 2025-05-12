@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>欢迎使用我们的应用程序</translation>
+        <translation>欢迎使用我们的应用程序!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,12 +74,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>早上好！祝您一天愉快。</translation>
+        <translation>早上好！祝您一天愉快！</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>下午好！希望您今天过得充实！</translation>
+        <translation>下午好！希望您今天工作顺利！</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>请稍候，我们正在处理您的请求...</translation>
+        <translation>请等待我们处理您的请求...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
