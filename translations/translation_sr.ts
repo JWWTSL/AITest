@@ -9,22 +9,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Poruka dobrodošlina</translation>
+        <translation>Poruka za dobrodošli</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation>Pozdrav svete</translation>
+        <translation>Zdravo svete</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>Dobroj utini</translation>
+        <translation>Dobroутро</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Dobro popodne</translation>
+        <translation>Dobro полдne</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
@@ -34,17 +34,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
         <source>Thank You</source>
-        <translation>Hvala vam</translation>
+        <translation>Hvala Vam</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>Molim vas da čekate</translation>
+        <translation>Molim Vas da pričekate</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Operacija je zavrsena</translation>
+        <translation>Operacija je završena</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
@@ -54,27 +54,27 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Laku noć</translation>
+        <translation>Prijatno vam dovidjenja!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation>Pozdrav TianShilin</translation>
+        <translation>Zdravo TianShilin</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Dobrodošli na našu aplikaciju</translation>
+        <translation>Dobrodošli u našu aplikaciju!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Pozdrav svete! Ovo je testna poruka.</translation>
+        <translation>Zdravo svete! Ovo je testna poruka.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Dobroj utini! Imajte dobru dan</translation>
+        <translation>Dobrojutno! Imajte dobar dan!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Dobro večer! Vreme za odmor!</translation>
+        <translation>Dobrovečer! Vremena za odmor!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Molimo Vas da pričekate dok obradimo Vaš zahtev...</translation>
+        <translation>Molimo da čekate dok obradimo vaš zahtev...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Došlo je do greške! Molimo Vas da pokušate kasnije.</translation>
+        <translation>Došlo je do greške! Molimo pokušajte kasnije.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Do svidanja! Vidi se sledeći put!</translation>
+        <translation>Do sada! Vidi se sledeći put!</translation>
     </message>
 </context>
 </TS>
