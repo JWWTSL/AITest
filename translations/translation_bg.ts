@@ -14,27 +14,27 @@
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation>Здравей свеемирно!</translation>
+        <translation>Здравейте, светъл!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>Добър утре!</translation>
+        <translation>Добро утро</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Добър следобед!</translation>
+        <translation>Добро полудне</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation>Добър вечер!</translation>
+        <translation>Добро вечер</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
         <source>Thank You</source>
-        <translation>Благодаря Ви</translation>
+        <translation>Благодаря ви</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
@@ -44,52 +44,52 @@
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Операцията е завършена</translation>
+        <translation>Операцията завърши</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation>Се съди, че се съдържа грешка</translation>
+        <translation>Изяви се грешка</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>До сви!</translation>
+        <translation>До свидания</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation>Здравей TianShilin</translation>
+        <translation>Здравствуйте TianShilin</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Добре дошли в нашия приложение</translation>
+        <translation>Добре дошли в наша приложение!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Здравей свеемирно! Това е тестов опит.</translation>
+        <translation>Здравейте, свет! Това е тестово съобщение.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Добър утре! Имай добра седмица!</translation>
+        <translation>Добър утрин! Приятен ден!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Добър следното ввече! Надяваме се, че имате продуктивен ден!</translation>
+        <translation>Добър следобран! Надяваме се, че имате продуктивен ден!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Добър вечер! Време за отъдых!</translation>
+        <translation>Добър вечер! Време за разлагане!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Благодарим ви за използването на нашия програмен продукт!</translation>
+        <translation>Благодарим ви за използването на нашата приложение!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
@@ -99,17 +99,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Операцията е завършена! Всичко е наред.</translation>
+        <translation>Операцията завърши успешно!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Възникна грешка! Моля, опитайте lại по-късно.</translation>
+        <translation>Съществува грешка! Моля, опитайте отново по-късно.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>До свида! Севиде следващ път!</translation>
+        <translation>До свидание! Се виде след време.</translation>
     </message>
 </context>
 </TS>
