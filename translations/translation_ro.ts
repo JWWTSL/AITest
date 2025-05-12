@@ -1,117 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ro_RO">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ro">
 <context>
     <name>MainWindow</name>
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo de traducere</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj de bine așteptare</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translation>Salutare Mond</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună dimineața</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună după-amiază</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună seara</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
         <source>Thank You</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulțumesc</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rog să așteptați</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Operație completă</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation type="unfinished"></translation>
+        <translation>La revedere</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation type="unfinished"></translation>
+        <translation>Salut TianShilin</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bine așteptat la aplicația noastră</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salutare Mond! Aceasta este un mesaj de test.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună dimineața! A aveți un zile bună</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună dimineața! Sper că aveți un zile productivă!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bună seara! Este timpul să vă relaxați!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulțumim că folosiți aplicația noastră!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să așteptați în timp ce procesăm cererea dumneavoastră...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operația a fost finalizată! Totul a mers bine.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare! Vă rugăm să încercați din nou mai târziu.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation type="unfinished"></translation>
+        <translation>La revedere! Vă așteptăm de data viitoare!</translation>
     </message>
 </context>
 </TS>
