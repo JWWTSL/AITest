@@ -4,7 +4,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>Fordítási demó</translation>
+        <translation>Fordításmegnäzés példa</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
@@ -19,17 +19,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>Kelemenét</translation>
+        <translation>Énnyit</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Kelemenét</translation>
+        <translation>Kövét</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation>Kelemenét</translation>
+        <translation>Keveset</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
@@ -39,12 +39,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>Kérjük, várjon</translation>
+        <translation>Kérlek, várj</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Művelet befejeződött</translation>
+        <translation>Az operáció befejeződött</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
@@ -54,47 +54,47 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Viszlát</translation>
+        <translation>Viszlát!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation>Helló TianShilin</translation>
+        <translation>Üdvözöljük TianShilin-t!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Üdvözöljük az alkalmazásban</translation>
+        <translation>Üdvözöljük az alkalmazásunkban!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Hello World! Ez egy teszt üzenet.</translation>
+        <translation>Üdvözöljük a világot! Ez egy tesztüzenet.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Kelemenét! Jó napot!</translation>
+        <translation>Jó reggel! Jó napot kívánok!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Óránként! Reméljük, hogy produktív időt töltenek!</translation>
+        <translation>Jóeste! Rendben van, ha produktív vagy.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Óriások! Időt kellett volna ösztönbe veszni!</translation>
+        <translation>Jó estét! Idő a rövid szünetre!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Köszönjük a használatát!</translation>
+        <translation>Köszönjük, hogy használja az alkalmazásunkat!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Kérjük, várjon, amíg folyamatosan megoldást keresünk!</translation>
+        <translation>Kérjük, várjon, amíg megkezdjük az igény kezelését...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Hiba történt! Kérjük, próbálja újra később.</translation>
+        <translation>Hiba történt! Kérjük, próbálja meg újra később.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Viszlát! Látók ugyanitt!</translation>
+        <translation>Viszlát! Következő alkalommal találkozunk!</translation>
     </message>
 </context>
 </TS>
