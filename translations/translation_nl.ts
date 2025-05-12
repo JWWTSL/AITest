@@ -4,7 +4,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>Vertalingstest</translation>
+        <translation>Vertaalsample</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Onderzoek voltooid</translation>
+        <translation>Operatie voltooid</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
@@ -64,42 +64,50 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Welkom bij onze toepassing</translation>
+        <translation>Welkom bij onze toepassing!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Hallo wereld! Dit is een testbericht.</translation>
+        <translation>Hallo Wereld! Dit is een testbericht.
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Goedemorgen! Geniet van je dag</translation>
+        <translation>Goedemorgen! Geniet van je dag!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Goed middag! Hopelijk heb je een productieve dag!</translation>
+        <translation>Goedemiddag! Hopelijk heb je een productieve dag!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Goedenavond! Tijd om te ontspannen!</translation>
+        <translation>Goedenavond! Tijd om te ontspannen!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Bedankt voor het gebruik van onze toepassing!</translation>
+        <translation>Bedankt voor het gebruik van onze toepassing!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Wacht even terwijl we uw verzoek verwerken...</translation>
+        <translation>Wacht even terwijl we jouw verzoek verwerken...
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Onderwerp voltooid! Alles is goed verlopen.</translation>
+        <translation>Bewerking voltooid! Alles is goed gegaan.
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
@@ -109,7 +117,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Tot ziens! Tot de volgende keer!</translation>
+        <translation>Tot ziens! Tot de volgende keer.</translation>
     </message>
 </context>
 </TS>
