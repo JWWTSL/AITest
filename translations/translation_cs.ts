@@ -9,7 +9,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Vítáním</translation>
+        <translation>Vítajte</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Dobrý den</translation>
+        <translation>Dobré odpoledne</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Ahoj</translation>
+        <translation>Doprej</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Vítejte v naší aplikaci</translation>
+        <translation>Vítáme v naší aplikaci!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,27 +74,27 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Dobré ráno! Mějte hezký den</translation>
+        <translation>Dobré ráno! Mějte hezký den!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Dobrý odpoledne! Doufám, že máte produktivní den!</translation>
+        <translation>Dobré odpoledne! Doufám, že máte produktivní den!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Dobrý večer! Je čas se uklidnit!</translation>
+        <translation>Dobrou večer! Čas se uklidnit!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Děkujeme za používání našeho aplikace!</translation>
+        <translation>Děkujeme za používání naší aplikace!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Počkejte prosím, zpracováváme vaši žádost...</translation>
+        <translation>Počkejte, zatímco zpracováváme vaši žádost...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Vyskytla se chyba! Prosím, zkuste to znovu později.</translation>
+        <translation>Došlo k chybě! Zkuste to prosím později.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Na shledanou! Uvidíme se příště!</translation>
+        <translation>Ať se setkáme znovu! Dalšíkrát se zase vidí.</translation>
     </message>
 </context>
 </TS>
