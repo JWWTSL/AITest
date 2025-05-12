@@ -4,12 +4,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>דוגמה לתרגום</translation>
+        <translation>דEMO של תרגום</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>הודעה ברקע</translation>
+        <translation>הודעה ברוך הבא</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>אנו מזמינים המתנה</translation>
+        <translation>אלה אתגרים</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
@@ -49,12 +49,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation>התרחשה שגיאה</translation>
+        <translation> HAPPEN ERROR</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>יורידה טובה</translation>
+        <translation>שלום ותודה</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,52 +64,52 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>ברוך הבא לrogram</translation>
+        <translation>ברוך הבא לפלטפורמתנו!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>שלום עולם! זו הודעה ניסיון.</translation>
+        <translation>שלום עולם! זו הודעה בדיקה.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>בוקר טוב! יש לך יום נחמד</translation>
+        <translation>בוקר טוב! יום נעים!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation type="unfinished"/>
+        <translation>צהריים טובים! מקווה שיש לך יום מועץ!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation type="unfinished"/>
+        <translation>ערב טוב! זמן להירגע!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation type="unfinished"/>
+        <translation>תודה על שימוש בפלטפורמתנו!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation type="unfinished"/>
+        <translation>תאכלס, אנחנו מטפלים בבקשתך...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation type="unfinished"/>
+        <translation>הפעולה הסתיימה בהצלחה!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>התרחשה שגיאה! אנא נסה שוב מאוחר יותר.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation type="unfinished"/>
+        <translation>תראניפעם הבאה! תארו את עצמכם!</translation>
     </message>
 </context>
 </TS>
