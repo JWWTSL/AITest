@@ -4,7 +4,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>Oversettelsesdemo</translation>
+        <translation>Oversettelsedemo</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>God Afternoon</translation>
+        <translation>God Tid</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
@@ -44,12 +44,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Operasjon Fullført</translation>
+        <translation>Operation afsluttet</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation>Fejl Opstod</translation>
+        <translation>Fejl opstod</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Velkommen til vores programvare</translation>
+        <translation>Velkommen til vores program!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,49 +74,42 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>God Morgen! Ha en god dag</translation>
+        <translation>God morgen! Håøe en god dag!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>God eftermiddag! Håber du har en produktiv dag!
-</translation>
+        <translation>God eftermiddag! Håbe, at du har en produktiv dag!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>God aften! Tid til at relaxke!
-</translation>
+        <translation>God aften! Tid til at relaxe!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Tak for at du bruger vores programvare!
-</translation>
+        <translation>Tak for at bruge vores program!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Vent venligst, mens vi behandler din forespørgsel...
-</translation>
+        <translation>Vent venligst, mens vi bearbejder din forespørgsel...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Operasjonen er færdig! Alt gik godt.
-</translation>
+        <translation>Operation fuldført! Alt gik godt.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Fejl opstod! Prøv venligst igen senere.
-</translation>
+        <translation>Fejl opstod! Prøv igen senere.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Farvel! Se dig snart igen!
-</translation>
+        <translation>Tschüss! Se os næste gang!</translation>
     </message>
 </context>
 </TS>
