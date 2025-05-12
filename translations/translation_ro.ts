@@ -9,7 +9,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Mesaj de bine așteptare</translation>
+        <translation>Mesaj de bineațere</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Operație completă</translation>
+        <translation>Operație finalizată</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
@@ -64,42 +64,43 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Bine așteptat la aplicația noastră</translation>
+        <translation>Bine ai venit în aplicatia noastră!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Salutare Mond! Aceasta este un mesaj de test.</translation>
+        <translation>Salut lume! Aceasta este un mesaj de test.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Bună dimineața! A aveți un zile bună</translation>
+        <translation>Bună dimineața! Alegeți o zi bună!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Bună dimineața! Sper că aveți un zile productivă!</translation>
+        <translation>Bună după-amiază! Sper că ai o zi productivă!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Bună seara! Este timpul să vă relaxați!</translation>
+        <translation>Bună seara! Timpul de relaxare!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Mulțumim că folosiți aplicația noastră!</translation>
+        <translation>Mulțumim că folosești aplicația noastră!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Vă rugăm să așteptați în timp ce procesăm cererea dumneavoastră...</translation>
+        <translation>Te rog aștepte în timp ce procesăm cererea ta...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Operația a fost finalizată! Totul a mers bine.</translation>
+        <translation>Operațiunea a fost completată! Toate procesele au avut loc bine.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
