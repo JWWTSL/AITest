@@ -9,7 +9,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Wiadomość witajнская</translation>
+        <translation>Wiadomość witajowa</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -109,7 +109,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Do widzenia! Do zobaczenia w kolejnym razie!</translation>
+        <translation>Do widzenia! Znasz się na kolejnym razie!</translation>
     </message>
 </context>
 </TS>
