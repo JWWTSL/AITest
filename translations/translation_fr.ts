@@ -4,7 +4,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>Démo de traduction</translation>
+        <translation>Démonstration de traduction</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation>Erreur survenue</translation>
+        <translation>Erreur détectée</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Bienvenue dans notre application</translation>
+        <translation>Bienvenue dans notre application !</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Bonne matinée ! Profitez de votre journée.</translation>
+        <translation>Bonne matinée ! J&apos;espère que vous passez une bonne journée !</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Merci d&apos;utiliser notre application !</translation>
+        <translation>Merci d&apos;avoir utilisé notre application !</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
