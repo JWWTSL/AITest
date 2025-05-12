@@ -39,7 +39,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>Por Favor, Aguarde</translation>
+        <translation>Por Favor Aguarde</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Até Logo</translation>
+        <translation>Tchau</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Bem-vindo à nossa aplicação</translation>
+        <translation>Bem-vindo à nossa aplicação!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,22 +74,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Bom Dia! Que tenha um ótimo dia</translation>
+        <translation>Bom dia! Que tenha um ótimo dia!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Boa tarde! Espero que você esteja tendo um dia produtivo!</translation>
+        <translation>Boa tarde! Espero que tenha tido um dia produtivo!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Boa noite! Chegou a hora de relaxar!</translation>
+        <translation>Boa noite! É hora de descansar!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Obrigado por usar nosso aplicativo!</translation>
+        <translation>Obrigado por usar nossa aplicação!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Ocorreu um erro! Por favor, tente novamente mais tarde.</translation>
+        <translation>Ocorreu um erro! Tente novamente mais tarde.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Até a próxima! Tenha um bom dia!</translation>
+        <translation>Até a próxima! Volte sempre!</translation>
     </message>
 </context>
 </TS>
