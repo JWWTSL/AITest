@@ -9,7 +9,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Vitajte v našej aplikácii!</translation>
+        <translation>Vitajte</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -19,12 +19,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>Dobrou ráno</translation>
+        <translation>Dobré ráno</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation>Dobrý oddech</translation>
+        <translation>Dobrý odpolednie</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>Počkajte, prosím</translation>
+        <translation>Počkajte,, prosím</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Dobrú noc</translation>
+        <translation>Ahoj</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Vitajte v našej aplikácii</translation>
+        <translation>Vitajte na našej aplikácii!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,17 +74,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Dobrou ráno! Mám si dnes pekný deň.</translation>
+        <translation>Dobré ráno! Mám úspešný deň!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>Polední! Sme si ľúto, že máte produktívny deň!</translation>
+        <translation>Dobrý odpoledň! Majte úspešný deň!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Dobrý večer! Štát si odpočívať!</translation>
+        <translation>Dobrý večer! Čas sa uvolniť!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
@@ -94,22 +94,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Počkajte, kým spracujeme vašu požiadavku...</translation>
+        <translation>Počkajte, kým zpracujeme vašu požiadavku...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Operácia úspešná! Všetko sa dačí v poriadku.</translation>
+        <translation>Operácia dokončená! Čo sa stalo, bolo v poriadku.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Vyskytla sa chyba! Prosím, skúste znova neskôr.</translation>
+        <translation>Došlo k chybe! Skúste to znova neskôr.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Dovidenia! Zase sa vidíme!</translation>
+        <translation>Ahoj! Búte tu ďalšiu ďalšiu.</translation>
     </message>
 </context>
 </TS>
