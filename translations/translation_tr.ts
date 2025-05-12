@@ -4,12 +4,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation>翻譯測試</translation>
+        <translation>Çeviri Demosu</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Hoşgeldiniz Mesajı</translation>
+        <translation>Hoş Geldiniz</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation>İyi Sabah</translation>
+        <translation>Günaydın</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation>Hoşça Kalın</translation>
+        <translation>Aleykum Selam</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Uygulamamıza Hoşgeldiniz</translation>
+        <translation>Uygulamamıza Hoş Geldiniz!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
@@ -74,42 +74,42 @@
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>İyi Sabah! İyi Bir Günü Dilerim</translation>
+        <translation>İyi Sabah! İyi Bir Gün İstersiniz!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation>İyi Sonra! İşleyi productive bir gün geçiriyormusunuz!</translation>
+        <translation>İyi Öğle Saatleri!productive bir gün geçiriyorsunuzu umuyorum!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>İyi Akşam! Açlık zamanı!</translation>
+        <translation>İyi Akşam! Relax zamanı!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation>Uygulamamızı kullanmaktan dolayı teşekkür ederiz!</translation>
+        <translation>Uygulamamızı Kullanarak Size İyilikler!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>İşlemi gerçekleştirirken lütfen bekleyin...</translation>
+        <translation>İsteklerinizi işleme working, lütfen bekleyin...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>İşlem tamamlandı! Her şey yolunda gitti.</translation>
+        <translation>İşlem Tamamlandı! Her şey yolunda gitti.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>Hata oluştu! Lütfen daha sonra tekrar deneyin.</translation>
+        <translation>Bir hata oluştu! Lütfen daha sonra tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>Hoşça kal! Bir sonraki kez görüşürüz!</translation>
+        <translation>Görüşmek üzere! Bir sonraki kez görüşürüz.</translation>
     </message>
 </context>
 </TS>
