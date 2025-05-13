@@ -62,52 +62,62 @@
         <translation>Мис жөнүндө салам</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="66"/>
+        <location filename="../mainwindow.cpp" line="44"/>
+        <source>Test if the translation was successful</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="45"/>
+        <source>translation was successful</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="71"/>
         <source>Welcome to our application!</source>
         <translation>Ообу чарчыгыzymызга жашоо кылыңыз!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="71"/>
+        <location filename="../mainwindow.cpp" line="76"/>
         <source>Hello World! This is a test message.</source>
         <translation>Жашэк Дүйнө! Бул кызматка салыштыруу сунушы.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="76"/>
+        <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Жашоо күнү! Көп күчүңүз!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="81"/>
+        <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Эрте күнү! Сиз өзүңүзүңүздүн жашоо күнү кызыктиңиз!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="86"/>
+        <location filename="../mainwindow.cpp" line="91"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Жашоо күнү! Мезгил жеңүүгө алып келүү!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="91"/>
+        <location filename="../mainwindow.cpp" line="96"/>
         <source>Thank You for using our application!</source>
         <translation>Ообу чарчыгыzymызга колдонуу үчүн ресултум!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="96"/>
+        <location filename="../mainwindow.cpp" line="101"/>
         <source>Please Wait while we process your request...</source>
         <translation>Сиздин сунушунuzu чечүүкө жардамчылык кылымыз, күлүп калыңыз...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="101"/>
+        <location filename="../mainwindow.cpp" line="106"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Операция аяктаган! Бардык чекилди жакын!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="106"/>
+        <location filename="../mainwindow.cpp" line="111"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>淖尔玛！吐尔逊دا كېرىشlip.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="116"/>
         <source>Goodbye! See you next time!</source>
         <translation>ماڭا！كەلگەن قاھerty.</translation>
     </message>
