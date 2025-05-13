@@ -64,22 +64,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="44"/>
         <source>Test if the translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>Проверить, успешно ли выполнена переведенная строка</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="45"/>
         <source>translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>перевод выполнен успешно</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
         <source>International Translation Platform</source>
-        <translation type="unfinished"/>
+        <translation>Платформа международного перевода</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="47"/>
         <source>Platform</source>
-        <translation type="unfinished"/>
+        <translation>Платформа</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="75"/>
