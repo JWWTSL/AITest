@@ -64,22 +64,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="44"/>
         <source>Test if the translation was successful</source>
-        <translation type="unfinished"/>
+        <translation> kontrolli, kas tõlgamine on edukas</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="45"/>
         <source>translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>tõlgamine on edukas</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
         <source>International Translation Platform</source>
-        <translation type="unfinished"/>
+        <translation>Külllukustõlgingu piirang</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="47"/>
         <source>Platform</source>
-        <translation type="unfinished"/>
+        <translation>Platvorm</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="75"/>
