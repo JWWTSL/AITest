@@ -9,12 +9,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Mesaj de bineațere</translation>
+        <translation>Mesaj de binevoie</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation>Salutare Mond</translation>
+        <translation>Salutări Mond</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
@@ -39,12 +39,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation>Vă rog să așteptați</translation>
+        <translation>Vă rugăm să așteptați</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation>Operație finalizată</translation>
+        <translation>Operație completă</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
@@ -64,18 +64,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation>Bine ai venit în aplicatia noastră!
-</translation>
+        <translation>Bine ai venit în aplicația noastră!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation>Salut lume! Aceasta este un mesaj de test.</translation>
+        <translation>Salutărea Mondului! Aceasta este un mesaj de test.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation>Bună dimineața! Alegeți o zi bună!</translation>
+        <translation>Bună dimineața! Ați avut o zi buna!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
@@ -85,7 +84,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation>Bună seara! Timpul de relaxare!</translation>
+        <translation>Bună seara! Timpul de a vă relaxa!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
@@ -95,22 +94,22 @@
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation>Te rog aștepte în timp ce procesăm cererea ta...</translation>
+        <translation>Vă rugăm să așteptați procesarea cererii dumneavoastră...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Operațiunea a fost completată! Toate procesele au avut loc bine.</translation>
+        <translation>Operațiunea a fost completată! Totul a mers bine.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>A apărut o eroare! Vă rugăm să încercați din nou mai târziu.</translation>
+        <translation>Eroare! Vă rugăm să încercați din nou mai târziu.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation>La revedere! Vă așteptăm la următoarea dată!</translation>
+        <translation>La revedere! Vă așteptăm la următoarea dată.</translation>
     </message>
 </context>
 </TS>
