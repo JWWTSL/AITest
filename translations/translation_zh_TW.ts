@@ -82,52 +82,87 @@
         <translation>平臺</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="75"/>
+        <location filename="../mainwindow.cpp" line="48"/>
+        <source>automatic detection and processing of multilingual translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="49"/>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="50"/>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="51"/>
+        <source>tomorrow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="52"/>
+        <source>week</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="53"/>
+        <source>month</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="54"/>
+        <source>year</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Welcome to our application!</source>
         <translation>歡迎使用我們的應用！</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="80"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Hello World! This is a test message.</source>
         <translation>你好世界！這是一個測試消息。</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="85"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>早上好！祝您一天愉快！</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="90"/>
+        <location filename="../mainwindow.cpp" line="98"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>下午好！希望您今天工作順利！</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="95"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Evening! Time to relax!</source>
         <translation>晚上好！是時候放鬆了！</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="100"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Thank You for using our application!</source>
         <translation>感謝您使用我們的應用！</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="105"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Please Wait while we process your request...</source>
         <translation>請等待我們處理您的請求...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="110"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>操作完成！一切順利。</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="115"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>發生錯誤！請稍後再試。</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="120"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Goodbye! See you next time!</source>
         <translation>再見！下次見！</translation>
     </message>
